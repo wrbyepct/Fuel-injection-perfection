@@ -1,0 +1,643 @@
+The number is: 15, the operations are: 5
+The previous number is 14, the operations are: 5
+The following number is 16, the operations are: 4
+
+The number is: 23, the operations are: 6
+The previous number is 22, the operations are: 6
+The following number is 24, the operations are: 5
+
+The number is: 31, the operations are: 6
+The previous number is 30, the operations are: 6
+The following number is 32, the operations are: 5
+
+The number is: 39, the operations are: 7
+The previous number is 38, the operations are: 7
+The following number is 40, the operations are: 6
+
+The number is: 47, the operations are: 7
+The previous number is 46, the operations are: 7
+The following number is 48, the operations are: 6
+
+The number is: 55, the operations are: 8
+The previous number is 54, the operations are: 8
+The following number is 56, the operations are: 7
+
+The number is: 59, the operations are: 8
+The previous number is 58, the operations are: 8
+The following number is 60, the operations are: 7
+
+The number is: 63, the operations are: 7
+The previous number is 62, the operations are: 7
+The following number is 64, the operations are: 6
+
+The number is: 71, the operations are: 8
+The previous number is 70, the operations are: 8
+The following number is 72, the operations are: 7
+
+The number is: 79, the operations are: 8
+The previous number is 78, the operations are: 8
+The following number is 80, the operations are: 7
+
+The number is: 87, the operations are: 9
+The previous number is 86, the operations are: 9
+The following number is 88, the operations are: 8
+
+The number is: 91, the operations are: 9
+The previous number is 90, the operations are: 9
+The following number is 92, the operations are: 8
+
+The number is: 95, the operations are: 8
+The previous number is 94, the operations are: 8
+The following number is 96, the operations are: 7
+
+The number is: 103, the operations are: 9
+The previous number is 102, the operations are: 9
+The following number is 104, the operations are: 8
+
+The number is: 111, the operations are: 9
+The previous number is 110, the operations are: 9
+The following number is 112, the operations are: 8
+
+The number is: 119, the operations are: 9
+The previous number is 118, the operations are: 9
+The following number is 120, the operations are: 8
+
+The number is: 123, the operations are: 9
+The previous number is 122, the operations are: 9
+The following number is 124, the operations are: 8
+
+The number is: 127, the operations are: 8
+The previous number is 126, the operations are: 8
+The following number is 128, the operations are: 7
+
+The number is: 135, the operations are: 9
+The previous number is 134, the operations are: 9
+The following number is 136, the operations are: 8
+
+The number is: 143, the operations are: 9
+The previous number is 142, the operations are: 9
+The following number is 144, the operations are: 8
+
+The number is: 151, the operations are: 10
+The previous number is 150, the operations are: 10
+The following number is 152, the operations are: 9
+
+The number is: 155, the operations are: 10
+The previous number is 154, the operations are: 10
+The following number is 156, the operations are: 9
+
+The number is: 159, the operations are: 9
+The previous number is 158, the operations are: 9
+The following number is 160, the operations are: 8
+
+The number is: 167, the operations are: 10
+The previous number is 166, the operations are: 10
+The following number is 168, the operations are: 9
+
+The number is: 175, the operations are: 10
+The previous number is 174, the operations are: 10
+The following number is 176, the operations are: 9
+
+The number is: 183, the operations are: 10
+The previous number is 182, the operations are: 10
+The following number is 184, the operations are: 9
+
+The number is: 187, the operations are: 10
+The previous number is 186, the operations are: 10
+The following number is 188, the operations are: 9
+
+The number is: 191, the operations are: 9
+The previous number is 190, the operations are: 9
+The following number is 192, the operations are: 8
+
+The number is: 199, the operations are: 10
+The previous number is 198, the operations are: 10
+The following number is 200, the operations are: 9
+
+The number is: 207, the operations are: 10
+The previous number is 206, the operations are: 10
+The following number is 208, the operations are: 9
+
+The number is: 215, the operations are: 11
+The previous number is 214, the operations are: 11
+The following number is 216, the operations are: 10
+
+The number is: 219, the operations are: 11
+The previous number is 218, the operations are: 11
+The following number is 220, the operations are: 10
+
+The number is: 223, the operations are: 10
+The previous number is 222, the operations are: 10
+The following number is 224, the operations are: 9
+
+The number is: 231, the operations are: 11
+The previous number is 230, the operations are: 11
+The following number is 232, the operations are: 10
+
+The number is: 235, the operations are: 11
+The previous number is 234, the operations are: 11
+The following number is 236, the operations are: 10
+
+The number is: 239, the operations are: 10
+The previous number is 238, the operations are: 10
+The following number is 240, the operations are: 9
+
+The number is: 247, the operations are: 10
+The previous number is 246, the operations are: 10
+The following number is 248, the operations are: 9
+
+The number is: 251, the operations are: 10
+The previous number is 250, the operations are: 10
+The following number is 252, the operations are: 9
+
+The number is: 255, the operations are: 9
+The previous number is 254, the operations are: 9
+The following number is 256, the operations are: 8
+
+The number is: 263, the operations are: 10
+The previous number is 262, the operations are: 10
+The following number is 264, the operations are: 9
+
+The number is: 271, the operations are: 10
+The previous number is 270, the operations are: 10
+The following number is 272, the operations are: 9
+
+The number is: 279, the operations are: 11
+The previous number is 278, the operations are: 11
+The following number is 280, the operations are: 10
+
+The number is: 283, the operations are: 11
+The previous number is 282, the operations are: 11
+The following number is 284, the operations are: 10
+
+The number is: 287, the operations are: 10
+The previous number is 286, the operations are: 10
+The following number is 288, the operations are: 9
+
+The number is: 295, the operations are: 11
+The previous number is 294, the operations are: 11
+The following number is 296, the operations are: 10
+
+The number is: 303, the operations are: 11
+The previous number is 302, the operations are: 11
+The following number is 304, the operations are: 10
+
+The number is: 311, the operations are: 11
+The previous number is 310, the operations are: 11
+The following number is 312, the operations are: 10
+
+The number is: 315, the operations are: 11
+The previous number is 314, the operations are: 11
+The following number is 316, the operations are: 10
+
+The number is: 319, the operations are: 10
+The previous number is 318, the operations are: 10
+The following number is 320, the operations are: 9
+
+The number is: 327, the operations are: 11
+The previous number is 326, the operations are: 11
+The following number is 328, the operations are: 10
+
+The number is: 335, the operations are: 11
+The previous number is 334, the operations are: 11
+The following number is 336, the operations are: 10
+
+The number is: 343, the operations are: 12
+The previous number is 342, the operations are: 12
+The following number is 344, the operations are: 11
+
+The number is: 347, the operations are: 12
+The previous number is 346, the operations are: 12
+The following number is 348, the operations are: 11
+
+The number is: 351, the operations are: 11
+The previous number is 350, the operations are: 11
+The following number is 352, the operations are: 10
+
+The number is: 359, the operations are: 12
+The previous number is 358, the operations are: 12
+The following number is 360, the operations are: 11
+
+The number is: 363, the operations are: 12
+The previous number is 362, the operations are: 12
+The following number is 364, the operations are: 11
+
+The number is: 367, the operations are: 11
+The previous number is 366, the operations are: 11
+The following number is 368, the operations are: 10
+
+The number is: 375, the operations are: 11
+The previous number is 374, the operations are: 11
+The following number is 376, the operations are: 10
+
+The number is: 379, the operations are: 11
+The previous number is 378, the operations are: 11
+The following number is 380, the operations are: 10
+
+The number is: 383, the operations are: 10
+The previous number is 382, the operations are: 10
+The following number is 384, the operations are: 9
+
+The number is: 391, the operations are: 11
+The previous number is 390, the operations are: 11
+The following number is 392, the operations are: 10
+
+The number is: 399, the operations are: 11
+The previous number is 398, the operations are: 11
+The following number is 400, the operations are: 10
+
+The number is: 407, the operations are: 12
+The previous number is 406, the operations are: 12
+The following number is 408, the operations are: 11
+
+The number is: 411, the operations are: 12
+The previous number is 410, the operations are: 12
+The following number is 412, the operations are: 11
+
+The number is: 415, the operations are: 11
+The previous number is 414, the operations are: 11
+The following number is 416, the operations are: 10
+
+The number is: 423, the operations are: 12
+The previous number is 422, the operations are: 12
+The following number is 424, the operations are: 11
+
+The number is: 431, the operations are: 12
+The previous number is 430, the operations are: 12
+The following number is 432, the operations are: 11
+
+The number is: 439, the operations are: 12
+The previous number is 438, the operations are: 12
+The following number is 440, the operations are: 11
+
+The number is: 443, the operations are: 12
+The previous number is 442, the operations are: 12
+The following number is 444, the operations are: 11
+
+The number is: 447, the operations are: 11
+The previous number is 446, the operations are: 11
+The following number is 448, the operations are: 10
+
+The number is: 455, the operations are: 12
+The previous number is 454, the operations are: 12
+The following number is 456, the operations are: 11
+
+The number is: 463, the operations are: 12
+The previous number is 462, the operations are: 12
+The following number is 464, the operations are: 11
+
+The number is: 471, the operations are: 12
+The previous number is 470, the operations are: 12
+The following number is 472, the operations are: 11
+
+The number is: 475, the operations are: 12
+The previous number is 474, the operations are: 12
+The following number is 476, the operations are: 11
+
+The number is: 479, the operations are: 11
+The previous number is 478, the operations are: 11
+The following number is 480, the operations are: 10
+
+The number is: 487, the operations are: 12
+The previous number is 486, the operations are: 12
+The following number is 488, the operations are: 11
+
+The number is: 491, the operations are: 12
+The previous number is 490, the operations are: 12
+The following number is 492, the operations are: 11
+
+The number is: 495, the operations are: 11
+The previous number is 494, the operations are: 11
+The following number is 496, the operations are: 10
+
+The number is: 503, the operations are: 11
+The previous number is 502, the operations are: 11
+The following number is 504, the operations are: 10
+
+The number is: 507, the operations are: 11
+The previous number is 506, the operations are: 11
+The following number is 508, the operations are: 10
+
+The number is: 511, the operations are: 10
+The previous number is 510, the operations are: 10
+The following number is 512, the operations are: 9
+
+The number is: 519, the operations are: 11
+The previous number is 518, the operations are: 11
+The following number is 520, the operations are: 10
+
+The number is: 527, the operations are: 11
+The previous number is 526, the operations are: 11
+The following number is 528, the operations are: 10
+
+The number is: 535, the operations are: 12
+The previous number is 534, the operations are: 12
+The following number is 536, the operations are: 11
+
+The number is: 539, the operations are: 12
+The previous number is 538, the operations are: 12
+The following number is 540, the operations are: 11
+
+The number is: 543, the operations are: 11
+The previous number is 542, the operations are: 11
+The following number is 544, the operations are: 10
+
+The number is: 551, the operations are: 12
+The previous number is 550, the operations are: 12
+The following number is 552, the operations are: 11
+
+The number is: 559, the operations are: 12
+The previous number is 558, the operations are: 12
+The following number is 560, the operations are: 11
+
+The number is: 567, the operations are: 12
+The previous number is 566, the operations are: 12
+The following number is 568, the operations are: 11
+
+The number is: 571, the operations are: 12
+The previous number is 570, the operations are: 12
+The following number is 572, the operations are: 11
+
+The number is: 575, the operations are: 11
+The previous number is 574, the operations are: 11
+The following number is 576, the operations are: 10
+
+The number is: 583, the operations are: 12
+The previous number is 582, the operations are: 12
+The following number is 584, the operations are: 11
+
+The number is: 591, the operations are: 12
+The previous number is 590, the operations are: 12
+The following number is 592, the operations are: 11
+
+The number is: 599, the operations are: 13
+The previous number is 598, the operations are: 13
+The following number is 600, the operations are: 12
+
+The number is: 603, the operations are: 13
+The previous number is 602, the operations are: 13
+The following number is 604, the operations are: 12
+
+The number is: 607, the operations are: 12
+The previous number is 606, the operations are: 12
+The following number is 608, the operations are: 11
+
+The number is: 615, the operations are: 13
+The previous number is 614, the operations are: 13
+The following number is 616, the operations are: 12
+
+The number is: 619, the operations are: 13
+The previous number is 618, the operations are: 13
+The following number is 620, the operations are: 12
+
+The number is: 623, the operations are: 12
+The previous number is 622, the operations are: 12
+The following number is 624, the operations are: 11
+
+The number is: 631, the operations are: 12
+The previous number is 630, the operations are: 12
+The following number is 632, the operations are: 11
+
+The number is: 635, the operations are: 12
+The previous number is 634, the operations are: 12
+The following number is 636, the operations are: 11
+
+The number is: 639, the operations are: 11
+The previous number is 638, the operations are: 11
+The following number is 640, the operations are: 10
+
+The number is: 647, the operations are: 12
+The previous number is 646, the operations are: 12
+The following number is 648, the operations are: 11
+
+The number is: 655, the operations are: 12
+The previous number is 654, the operations are: 12
+The following number is 656, the operations are: 11
+
+The number is: 663, the operations are: 13
+The previous number is 662, the operations are: 13
+The following number is 664, the operations are: 12
+
+The number is: 667, the operations are: 13
+The previous number is 666, the operations are: 13
+The following number is 668, the operations are: 12
+
+The number is: 671, the operations are: 12
+The previous number is 670, the operations are: 12
+The following number is 672, the operations are: 11
+
+The number is: 679, the operations are: 13
+The previous number is 678, the operations are: 13
+The following number is 680, the operations are: 12
+
+The number is: 687, the operations are: 13
+The previous number is 686, the operations are: 13
+The following number is 688, the operations are: 12
+
+The number is: 695, the operations are: 13
+The previous number is 694, the operations are: 13
+The following number is 696, the operations are: 12
+
+The number is: 699, the operations are: 13
+The previous number is 698, the operations are: 13
+The following number is 700, the operations are: 12
+
+The number is: 703, the operations are: 12
+The previous number is 702, the operations are: 12
+The following number is 704, the operations are: 11
+
+The number is: 711, the operations are: 13
+The previous number is 710, the operations are: 13
+The following number is 712, the operations are: 12
+
+The number is: 719, the operations are: 13
+The previous number is 718, the operations are: 13
+The following number is 720, the operations are: 12
+
+The number is: 727, the operations are: 13
+The previous number is 726, the operations are: 13
+The following number is 728, the operations are: 12
+
+The number is: 731, the operations are: 13
+The previous number is 730, the operations are: 13
+The following number is 732, the operations are: 12
+
+The number is: 735, the operations are: 12
+The previous number is 734, the operations are: 12
+The following number is 736, the operations are: 11
+
+The number is: 743, the operations are: 13
+The previous number is 742, the operations are: 13
+The following number is 744, the operations are: 12
+
+The number is: 747, the operations are: 13
+The previous number is 746, the operations are: 13
+The following number is 748, the operations are: 12
+
+The number is: 751, the operations are: 12
+The previous number is 750, the operations are: 12
+The following number is 752, the operations are: 11
+
+The number is: 759, the operations are: 12
+The previous number is 758, the operations are: 12
+The following number is 760, the operations are: 11
+
+The number is: 763, the operations are: 12
+The previous number is 762, the operations are: 12
+The following number is 764, the operations are: 11
+
+The number is: 767, the operations are: 11
+The previous number is 766, the operations are: 11
+The following number is 768, the operations are: 10
+
+The number is: 775, the operations are: 12
+The previous number is 774, the operations are: 12
+The following number is 776, the operations are: 11
+
+The number is: 783, the operations are: 12
+The previous number is 782, the operations are: 12
+The following number is 784, the operations are: 11
+
+The number is: 791, the operations are: 13
+The previous number is 790, the operations are: 13
+The following number is 792, the operations are: 12
+
+The number is: 795, the operations are: 13
+The previous number is 794, the operations are: 13
+The following number is 796, the operations are: 12
+
+The number is: 799, the operations are: 12
+The previous number is 798, the operations are: 12
+The following number is 800, the operations are: 11
+
+The number is: 807, the operations are: 13
+The previous number is 806, the operations are: 13
+The following number is 808, the operations are: 12
+
+The number is: 815, the operations are: 13
+The previous number is 814, the operations are: 13
+The following number is 816, the operations are: 12
+
+The number is: 823, the operations are: 13
+The previous number is 822, the operations are: 13
+The following number is 824, the operations are: 12
+
+The number is: 827, the operations are: 13
+The previous number is 826, the operations are: 13
+The following number is 828, the operations are: 12
+
+The number is: 831, the operations are: 12
+The previous number is 830, the operations are: 12
+The following number is 832, the operations are: 11
+
+The number is: 839, the operations are: 13
+The previous number is 838, the operations are: 13
+The following number is 840, the operations are: 12
+
+The number is: 847, the operations are: 13
+The previous number is 846, the operations are: 13
+The following number is 848, the operations are: 12
+
+The number is: 855, the operations are: 14
+The previous number is 854, the operations are: 14
+The following number is 856, the operations are: 13
+
+The number is: 859, the operations are: 14
+The previous number is 858, the operations are: 14
+The following number is 860, the operations are: 13
+
+The number is: 863, the operations are: 13
+The previous number is 862, the operations are: 13
+The following number is 864, the operations are: 12
+
+The number is: 871, the operations are: 14
+The previous number is 870, the operations are: 14
+The following number is 872, the operations are: 13
+
+The number is: 875, the operations are: 14
+The previous number is 874, the operations are: 14
+The following number is 876, the operations are: 13
+
+The number is: 879, the operations are: 13
+The previous number is 878, the operations are: 13
+The following number is 880, the operations are: 12
+
+The number is: 887, the operations are: 13
+The previous number is 886, the operations are: 13
+The following number is 888, the operations are: 12
+
+The number is: 891, the operations are: 13
+The previous number is 890, the operations are: 13
+The following number is 892, the operations are: 12
+
+The number is: 895, the operations are: 12
+The previous number is 894, the operations are: 12
+The following number is 896, the operations are: 11
+
+The number is: 903, the operations are: 13
+The previous number is 902, the operations are: 13
+The following number is 904, the operations are: 12
+
+The number is: 911, the operations are: 13
+The previous number is 910, the operations are: 13
+The following number is 912, the operations are: 12
+
+The number is: 919, the operations are: 14
+The previous number is 918, the operations are: 14
+The following number is 920, the operations are: 13
+
+The number is: 923, the operations are: 14
+The previous number is 922, the operations are: 14
+The following number is 924, the operations are: 13
+
+The number is: 927, the operations are: 13
+The previous number is 926, the operations are: 13
+The following number is 928, the operations are: 12
+
+The number is: 935, the operations are: 14
+The previous number is 934, the operations are: 14
+The following number is 936, the operations are: 13
+
+The number is: 939, the operations are: 14
+The previous number is 938, the operations are: 14
+The following number is 940, the operations are: 13
+
+The number is: 943, the operations are: 13
+The previous number is 942, the operations are: 13
+The following number is 944, the operations are: 12
+
+The number is: 951, the operations are: 13
+The previous number is 950, the operations are: 13
+The following number is 952, the operations are: 12
+
+The number is: 955, the operations are: 13
+The previous number is 954, the operations are: 13
+The following number is 956, the operations are: 12
+
+The number is: 959, the operations are: 12
+The previous number is 958, the operations are: 12
+The following number is 960, the operations are: 11
+
+The number is: 967, the operations are: 13
+The previous number is 966, the operations are: 13
+The following number is 968, the operations are: 12
+
+The number is: 975, the operations are: 13
+The previous number is 974, the operations are: 13
+The following number is 976, the operations are: 12
+
+The number is: 983, the operations are: 13
+The previous number is 982, the operations are: 13
+The following number is 984, the operations are: 12
+
+The number is: 987, the operations are: 13
+The previous number is 986, the operations are: 13
+The following number is 988, the operations are: 12
+
+The number is: 991, the operations are: 12
+The previous number is 990, the operations are: 12
+The following number is 992, the operations are: 11
+
+The number is: 999, the operations are: 13
+The previous number is 998, the operations are: 13
+The following number is 1000, the operations are: 12
