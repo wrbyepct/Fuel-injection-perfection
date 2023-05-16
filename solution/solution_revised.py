@@ -25,8 +25,8 @@ Goal:
 
 What we have known:
     1. If the number is even, always go down to with divided by 2
-    2. If the number is odd, there only 2 choices:
-        either add + 1 or subtract 1
+    2. If the number is odd, there are only 2 choices:
+        either add  1 or subtract 1
     3. Let's say n is odd number, then either n + 1 or n - 1
         is a number can be divided by 4
         E.g.
